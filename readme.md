@@ -13,4 +13,4 @@ The above works fine, returns request from OpenAI
 
 > docker run -p 4000:4000 -v "$(pwd)/supergraph.graphql:/gateway/supergraph.graphql" -v "$(pwd)/gateway.config.ts:/gateway/gateway.config.ts" hive-gateway-transports supergraph
 
-The above fails.
+The above fails (see error.png).
