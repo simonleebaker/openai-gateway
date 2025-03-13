@@ -1,6 +1,7 @@
 *Run gateway on local machine*
 
 > npm i
+
 > npx hive-gateway supergraph
 
 The above works fine, returns request from OpenAI
